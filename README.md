@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/milocain/recipe-page)
-- Live Site URL: [Live Solution](https://recipe-page-rose-iota.vercel.app/)
+- Solution URL: [Source Code](https://github.com/Alucardbus/Recipe-Page)
+- Live Site URL: [Live Solution](https://recipe-page-alu.netlify.app/)
 
 ## My process
 
